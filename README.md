@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**chengui1in/chengui1in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**cr4ckm321/cr4ckm321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 :zap: GitHub Stats
 
-<img align="left" alt="chengui1in's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chengui1in&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="cr4ckm321's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr4ckm321&show_icons=true&hide_border=true&count_private=true" />
